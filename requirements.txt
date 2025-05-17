@@ -1,4 +1,9 @@
-pandas 
+pandas
+pylint
+pytest
+click
+black
+pytest-cov
 mlflow
 notebook
 numpy
