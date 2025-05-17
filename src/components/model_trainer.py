@@ -1,10 +1,10 @@
 import pandas as pd
 import os
-from src.datascience import logger
+from src import logger
 from sklearn.linear_model import ElasticNet
 import joblib
 
-from src.datascience.entity.config_entity import ModelTrainerConfig
+from src.entity.config_entity import ModelTrainerConfig
 
 
 class ModelTrainer:

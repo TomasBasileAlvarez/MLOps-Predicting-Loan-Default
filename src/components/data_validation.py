@@ -1,8 +1,8 @@
 import os
-from src.datascience import logger
+from src import logger
 import pandas as pd
 
-from src.datascience.entity.config_entity import DataValidationConfig
+from src.entity.config_entity import DataValidationConfig
 
 
 class DataValiadtion:
