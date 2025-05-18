@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tbasi/OneDrive/Documentos/mlops/Final_projects/MLOps-Predicting-wine-quality/mlruns/0/58c2b71b7dab4144a89dbbee5ae55a68/artifacts
+end_time: 1747565270981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58c2b71b7dab4144a89dbbee5ae55a68
+run_name: inquisitive-gnat-812
+run_uuid: 58c2b71b7dab4144a89dbbee5ae55a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747565264345
+status: 3
+tags: []
+user_id: tbasi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tbasi/OneDrive/Documentos/mlops/Final_projects/MLOps-Predicting-wine-quality/mlruns/0/2ed2842824e24694b0c58b976cb00f66/artifacts
+end_time: 1747565055905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ed2842824e24694b0c58b976cb00f66
+run_name: peaceful-donkey-612
+run_uuid: 2ed2842824e24694b0c58b976cb00f66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747565048847
+status: 3
+tags: []
+user_id: tbasi

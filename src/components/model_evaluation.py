@@ -37,6 +37,8 @@ class ModelEvaluation:
         with mlflow.start_run():
 
             predicted_qualities = model.predict(test_x)
+            print(sum(predicted_qualities))
+            print(test_y)
 
             (rmse, mae, r2) = self.eval_metrics(test_y, predicted_qualities)
             

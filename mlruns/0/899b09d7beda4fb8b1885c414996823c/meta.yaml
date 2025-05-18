@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tbasi/OneDrive/Documentos/mlops/Final_projects/MLOps-Predicting-wine-quality/mlruns/0/899b09d7beda4fb8b1885c414996823c/artifacts
+end_time: 1747564597413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 899b09d7beda4fb8b1885c414996823c
+run_name: receptive-snake-856
+run_uuid: 899b09d7beda4fb8b1885c414996823c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747564586214
+status: 3
+tags: []
+user_id: tbasi

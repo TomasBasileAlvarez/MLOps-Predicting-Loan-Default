@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tbasi/OneDrive/Documentos/mlops/Final_projects/MLOps-Predicting-wine-quality/mlruns/0/cdfa7ffa0c11412f935ea5e9797a28eb/artifacts
+end_time: 1747565108356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdfa7ffa0c11412f935ea5e9797a28eb
+run_name: unleashed-bee-818
+run_uuid: cdfa7ffa0c11412f935ea5e9797a28eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747565101736
+status: 3
+tags: []
+user_id: tbasi

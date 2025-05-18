@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tbasi/OneDrive/Documentos/mlops/Final_projects/MLOps-Predicting-wine-quality/mlruns/0/a5ae21fab44e4028a9bf045f04d53bee/artifacts
+end_time: 1747565321897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5ae21fab44e4028a9bf045f04d53bee
+run_name: omniscient-koi-143
+run_uuid: a5ae21fab44e4028a9bf045f04d53bee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747565315460
+status: 3
+tags: []
+user_id: tbasi
