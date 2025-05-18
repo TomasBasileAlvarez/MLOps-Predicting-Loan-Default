@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tbasi/OneDrive/Documentos/mlops/Final_projects/MLOps-Predicting-wine-quality/mlruns/0/650dd9ed994b416ea0632cc5888030ca/artifacts
+end_time: 1747572607161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 650dd9ed994b416ea0632cc5888030ca
+run_name: unique-stork-872
+run_uuid: 650dd9ed994b416ea0632cc5888030ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747572588885
+status: 3
+tags: []
+user_id: tbasi

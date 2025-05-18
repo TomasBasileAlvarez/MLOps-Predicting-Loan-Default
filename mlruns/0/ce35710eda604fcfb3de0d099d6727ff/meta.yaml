@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tbasi/OneDrive/Documentos/mlops/Final_projects/MLOps-Predicting-wine-quality/mlruns/0/ce35710eda604fcfb3de0d099d6727ff/artifacts
+end_time: 1747572976717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce35710eda604fcfb3de0d099d6727ff
+run_name: overjoyed-goat-582
+run_uuid: ce35710eda604fcfb3de0d099d6727ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747572969863
+status: 3
+tags: []
+user_id: tbasi

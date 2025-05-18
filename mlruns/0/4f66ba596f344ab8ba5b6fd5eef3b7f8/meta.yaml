@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tbasi/OneDrive/Documentos/mlops/Final_projects/MLOps-Predicting-wine-quality/mlruns/0/4f66ba596f344ab8ba5b6fd5eef3b7f8/artifacts
+end_time: 1747572836599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f66ba596f344ab8ba5b6fd5eef3b7f8
+run_name: nervous-lynx-839
+run_uuid: 4f66ba596f344ab8ba5b6fd5eef3b7f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747572829339
+status: 3
+tags: []
+user_id: tbasi

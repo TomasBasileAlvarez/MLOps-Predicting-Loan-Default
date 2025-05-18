@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tbasi/OneDrive/Documentos/mlops/Final_projects/MLOps-Predicting-wine-quality/mlruns/0/a7316f0c933e4245b6e5df132ac2bae3/artifacts
+end_time: 1747567539689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7316f0c933e4245b6e5df132ac2bae3
+run_name: gregarious-bee-590
+run_uuid: a7316f0c933e4245b6e5df132ac2bae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747567531906
+status: 3
+tags: []
+user_id: tbasi

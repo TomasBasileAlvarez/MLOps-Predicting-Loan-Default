@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tbasi/OneDrive/Documentos/mlops/Final_projects/MLOps-Predicting-wine-quality/mlruns/0/48ea3d3efc574ebebbb1e221f2477647/artifacts
+end_time: 1747572876195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48ea3d3efc574ebebbb1e221f2477647
+run_name: amazing-ant-155
+run_uuid: 48ea3d3efc574ebebbb1e221f2477647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747572868689
+status: 3
+tags: []
+user_id: tbasi

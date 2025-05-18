@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 from src import logger
-from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble  import RandomForestRegressor
 import joblib
 
 from src.entity.config_entity import ModelTrainerConfig
@@ -22,7 +22,7 @@ class ModelTrainer:
         test_y = test_data[[self.config.target_column]]
 
 
-        lr = LogisticRegression(penalty=self.config.penalty, solver=self.config.solver, random_state=42)
+        lr = RandomForestRegressor(n_estimators=self.config.n_estimators, max_depth=self.config.max_depth, random_state=42)
         lr.fit(train_x, train_y)
 
         joblib.dump(lr, os.path.join(self.config.root_dir, self.config.model_name))

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tbasi/OneDrive/Documentos/mlops/Final_projects/MLOps-Predicting-wine-quality/mlruns/0/1f593415f6da4c1c88a4bf4e9c1d34c4/artifacts
+end_time: 1747573033288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f593415f6da4c1c88a4bf4e9c1d34c4
+run_name: melodic-moose-246
+run_uuid: 1f593415f6da4c1c88a4bf4e9c1d34c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747573026430
+status: 3
+tags: []
+user_id: tbasi
