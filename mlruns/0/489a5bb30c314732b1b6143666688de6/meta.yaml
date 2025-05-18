@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tbasi/OneDrive/Documentos/mlops/Final_projects/MLOps-Predicting-wine-quality/mlruns/0/489a5bb30c314732b1b6143666688de6/artifacts
+end_time: 1747512533099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 489a5bb30c314732b1b6143666688de6
+run_name: dazzling-flea-738
+run_uuid: 489a5bb30c314732b1b6143666688de6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747512523478
+status: 3
+tags: []
+user_id: tbasi
