@@ -9,13 +9,13 @@ data_ingestion:
 
 data_validation:
   root_dir: artifacts/data_validation
-  unzip_data_dir: artifacts/data_ingestion/Loan_default.csv
+  unzip_data_dir: artifacts/data_ingestion/Default_Fin.csv
   STATUS_FILE: artifacts/data_validation/status.txt
 
 
 data_transformation:
   root_dir: artifacts/data_transformation
-  data_path: artifacts/data_ingestion/Loan_default.csv
+  data_path: artifacts/data_ingestion/Default_Fin.csv
 
 model_trainer:
   root_dir: artifacts/model_trainer

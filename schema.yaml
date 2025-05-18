@@ -1,21 +1,9 @@
 COLUMNS:
-  LoanID: str
-  Age: int64
-  Income: int64
-  LoanAmout: int64
-  CreditScore: int64
-  MonthsEmployed: int64
-  NumCreditLines: int64
-  InterestRate: Float64
-  LoanTerm: int64
-  DTIRatio: Float64
-  Education: str
-  EmploymentType: str
-  MaritalStatus: str
-  HasMortgage: str
-  HasDependents: str
-  LoanPurpose: str
-  HasCoSigner: str
+  Index: int64
+  Employed: str
+  Bank Balance: Float64
+  Annual Salary: Float64
+  Defaulted?: int64
 
 TARGET_COLUMN:
-  name: Default
+  name: Defaulted?
