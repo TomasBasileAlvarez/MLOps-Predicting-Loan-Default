@@ -1,16 +1,21 @@
 COLUMNS:
-  fixed acidity: float64
-  volatile acidity: float64
-  citric acid: float64
-  residual sugar: float64
-  chlorides: float64
-  free sulfur dioxide: float64
-  total sulfur dioxide: float64
-  density: float64
-  pH: float64
-  sulphates: float64
-  alcohol: float64
-  quality: int64
+  LoanID: str
+  Age: int64
+  Income: int64
+  LoanAmout: int64
+  CreditScore: int64
+  MonthsEmployed: int64
+  NumCreditLines: int64
+  InterestRate: Float64
+  LoanTerm: int64
+  DTIRatio: Float64
+  Education: str
+  EmploymentType: str
+  MaritalStatus: str
+  HasMortgage: str
+  HasDependents: str
+  LoanPurpose: str
+  HasCoSigner: str
 
 TARGET_COLUMN:
-  name: quality
+  name: Default

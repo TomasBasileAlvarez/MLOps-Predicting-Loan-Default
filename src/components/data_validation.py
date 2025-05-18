@@ -18,7 +18,8 @@ class DataValiadtion:
 
             all_schema = self.config.all_schema.keys()
 
-            
+            print(all_cols)
+            print(all_schema)
             for col in all_cols:
                 if col not in all_schema:
                     validation_status = False
